@@ -1,0 +1,9 @@
+[
+["overview.html", "Documentation Template 1 Overview", " Documentation Template David Keyes // R for the Rest of Us 1 Overview "],
+["project-organization.html", "2 Project Organization", " 2 Project Organization Use data/data-raw structure Break up data cleaning (R script) and reporting (RMarkdown) "],
+["code-style.html", "3 Code Style", " 3 Code Style Spaces between things Line breaks "],
+["packages.html", "4 Packages", " 4 Packages Tidyverse "],
+["data-import.html", "5 Data Import", " 5 Data Import "],
+["data-wrangling-and-analysis.html", "6 Data Wrangling and Analysis", " 6 Data Wrangling and Analysis "],
+["data-visualization.html", "7 Data Visualization 7.1 Themes", " 7 Data Visualization 7.1 Themes "]
+]

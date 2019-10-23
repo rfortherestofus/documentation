@@ -1,0 +1,56 @@
+---
+title: "Documentation Template"
+author: "David Keyes // R for the Rest of Us"
+output: 
+    html_document:
+        css: css/style.css
+        df_print: paged
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE,
+                      warning = FALSE,
+                      message = FALSE)
+```
+
+```{r}
+library(tidyverse)
+```
+
+# Overview
+
+# Project Organization
+
+- Use data/data-raw structure
+- Break up data cleaning (R script) and reporting (RMarkdown)
+- Codebooks 
+  - https://rubenarslan.github.io/codebook/
+
+# Code Style
+
+- Spaces between things
+- Line breaks
+
+# Packages
+
+- Tidyverse
+
+# Data Import
+
+# Data Wrangling and Analysis
+
+# Data Visualization
+
+## Themes
+
+# Reporting
+
+## What format do we knit to?
+
+- When to use HTML?
+- xaringan for presentations
+
+
+# Git/GitHub
+
+
