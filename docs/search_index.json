@@ -1,9 +1,14 @@
 [
-["overview.html", "Documentation Template 1 Overview", " Documentation Template David Keyes // R for the Rest of Us 1 Overview "],
-["project-organization.html", "2 Project Organization", " 2 Project Organization Use data/data-raw structure Break up data cleaning (R script) and reporting (RMarkdown) "],
+["overview.html", "Documentation Template 1 Overview", " Documentation Template David Keyes // R for the Rest of Us 1 Overview Explain sample dataset used throughout project "],
+["projects.html", "2 Projects 2.1 Project Organization 2.2 Workflow 2.3 Codebooks", " 2 Projects 2.1 Project Organization Use data/data-raw structure 2.2 Workflow Break up data cleaning (R script) and reporting (RMarkdown) 2.3 Codebooks Explain that R doesn’t have variable/value labels like in SPSS https://rubenarslan.github.io/codebook/ "],
 ["code-style.html", "3 Code Style", " 3 Code Style Spaces between things Line breaks "],
-["packages.html", "4 Packages", " 4 Packages Tidyverse "],
-["data-import.html", "5 Data Import", " 5 Data Import "],
+["packages.html", "4 Packages", " 4 Packages I am a huge proponent of the tidyverse. This "],
+["data-import.html", "5 Data Import", " 5 Data Import clean_names() function "],
 ["data-wrangling-and-analysis.html", "6 Data Wrangling and Analysis", " 6 Data Wrangling and Analysis "],
-["data-visualization.html", "7 Data Visualization 7.1 Themes", " 7 Data Visualization 7.1 Themes "]
+["data-visualization.html", "7 Data Visualization 7.1 Themes", " 7 Data Visualization 7.1 Themes "],
+["tables.html", "8 Tables", " 8 Tables flextable gt DT formattable kable kableextra huxtable (?) "],
+["mapping.html", "9 Mapping", " 9 Mapping tmap leaflet ggplot mapview "],
+["reporting.html", "10 Reporting 10.1 What format do we knit to?", " 10 Reporting 10.1 What format do we knit to? When to use HTML? xaringan for presentations "],
+["collaboration.html", "11 Collaboration 11.1 Windows Network Drive, Sharepoint, etc. 11.2 Google Drive, Dropbox, etc. 11.3 Git/GitHub", " 11 Collaboration 11.1 Windows Network Drive, Sharepoint, etc. 11.2 Google Drive, Dropbox, etc. Pluses Easy Minuses Only one person can work at a time No version control 11.3 Git/GitHub Pluses Hard to get set up Minuses Multiple people can work at a time Version control "],
+["misc-to-categorize.html", "12 Misc to categorize", " 12 Misc to categorize https://whattheyforgot.org/ "]
 ]

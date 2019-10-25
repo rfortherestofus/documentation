@@ -1,6 +1,6 @@
 library(bookdown)
 
-gitbook(split_by = "none")
+gitbook()
 
 render_book(input = "index.Rmd",
             output_format = "bookdown::gitbook",

@@ -19,12 +19,23 @@ library(tidyverse)
 
 # Overview
 
-# Project Organization
+Explain sample dataset used throughout project
+
+# Projects
+
+## Project Organization
 
 - Use data/data-raw structure
+
+## Workflow
+
 - Break up data cleaning (R script) and reporting (RMarkdown)
-- Codebooks 
-  - https://rubenarslan.github.io/codebook/
+
+## Codebooks 
+
+Explain that R doesn't have variable/value labels like in SPSS
+
+- https://rubenarslan.github.io/codebook/
 
 # Code Style
 
@@ -33,15 +44,35 @@ library(tidyverse)
 
 # Packages
 
-- Tidyverse
+I am a huge proponent of the [tidyverse](https://tidyverse.org/). This 
+
 
 # Data Import
+
+- clean_names() function
 
 # Data Wrangling and Analysis
 
 # Data Visualization
 
 ## Themes
+
+# Tables
+
+- flextable
+- gt    
+- DT
+- formattable
+- kable
+- kableextra
+- huxtable (?)
+
+# Mapping
+
+- tmap
+- leaflet
+- ggplot 
+- mapview
 
 # Reporting
 
@@ -50,7 +81,38 @@ library(tidyverse)
 - When to use HTML?
 - xaringan for presentations
 
+## Word
 
-# Git/GitHub
+- Using Word reference documents for style
+
+# Collaboration
+
+## Windows Network Drive, Sharepoint, etc.
+
+## Google Drive, Dropbox, etc.
+
+Pluses
+
+- Easy
+
+Minuses
+
+- Only one person can work at a time
+- No version control
+
+## Git/GitHub
+
+Pluses
+
+- Hard to get set up
+
+Minuses
+
+- Multiple people can work at a time
+- Version control
+
+# Misc to categorize
+
+- https://whattheyforgot.org/
 
 
